@@ -33,8 +33,17 @@ This project focuses on performing RFM (Recency, Frequency, Monetary) analysis o
 
 ---
 
-## **Insights and Analysis**
+### **Visualizations**
+1. **RFM Score Distribution**:
+   - Bar charts showing the count of customers in each RFM segment.
+   ![image](https://github.com/user-attachments/assets/438124ca-685d-437e-8fed-551b43bfaf9b)
 
+2. **Revenue Contribution by Segment**:
+   - Pie chart displaying monetary value associated with each segment.
+     ![image](https://github.com/user-attachments/assets/1e12197c-12c0-46fb-8254-35e0f0e13c3d)
+
+## **Insights and Analysis**
+---
 ### **Key Findings**
 1. **Customer Segments**:
    - **Champions** and **Loyal Customers** form the majority of the customer base, indicating strong engagement and high value.
@@ -73,34 +82,12 @@ This project focuses on performing RFM (Recency, Frequency, Monetary) analysis o
 
 ---
 
-## **Dashboard Insights**
-
-### **Visualizations**
-1. **RFM Score Distribution**:
-   - Bar charts showing the count of customers in each RFM segment.
-2. **Revenue Contribution by Segment**:
-   - Pie chart displaying monetary value associated with each segment.
-3. **Customer Movement**:
-   - Sankey diagrams or heatmaps to track transitions between segments over time.
 
 ---
 
 ## **Technology Stack**
 - **Data Extraction and Analysis**: SQL (BigQuery)
-- **Visualization**: Tableau / Power BI / Looker Studio
+- **Visualization**: Tableau 
 
 ---
 
-## **How to Reproduce**
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/rfm-analysis
-   ```
-2. Access the `rfm` table in the `turing_data_analytics` database (requires BigQuery credentials).
-3. Run the SQL scripts provided in the `sql` folder for RFM calculation.
-4. Open the Tableau/Power BI/Looker Studio dashboard file in the `visualizations` folder.
-
----
-
-For questions or feedback, feel free to reach out!
