@@ -40,7 +40,8 @@ This project focuses on performing RFM (Recency, Frequency, Monetary) analysis o
 
 2. **Revenue Contribution by Segment**:
    - Pie chart displaying monetary value associated with each segment.
-     ![image](https://github.com/user-attachments/assets/1e12197c-12c0-46fb-8254-35e0f0e13c3d)
+    ![image](https://github.com/user-attachments/assets/d00c99c3-9517-4344-9e04-145c4260bea6)
+
 
 ## **Insights and Analysis**
 ---
